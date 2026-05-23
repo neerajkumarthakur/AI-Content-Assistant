@@ -23,5 +23,5 @@ AI Content Assistant is a lightweight web application that integrates with the O
 ### Clone Repository
 
 ```bash
-git clone
+git clone https://github.com/neerajkumarthakur/AI-Content-Assistant.git
 ```
